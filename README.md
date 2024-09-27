@@ -2,9 +2,11 @@
 
 ## Requirements
 
-Packages:
+Python packages:
 geopandas                 0.9.0
-rasterstats               0.14.0 
+numpy                     1.19.5
+rasterstats               0.14.0
+shapely                   1.7.1
 tensorflow-gpu            2.6.0
 pytorch                   1.9.0 (Optional)
 
