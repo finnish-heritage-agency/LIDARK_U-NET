@@ -2,6 +2,15 @@
 
 ## Requirements
 
+Packages:
+geopandas                 0.9.0
+rasterstats               0.14.0 
+tensorflow-gpu            2.6.0
+pytorch                   1.9.0 (Optional)
+
+External software:
+LAStools (Optional)
+
 
 ## CreateMap
 
